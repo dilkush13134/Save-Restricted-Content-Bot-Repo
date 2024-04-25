@@ -9,3 +9,7 @@ opencv-python-headless
 python-decouple
 requests
 speedtest-cli
+flask
+gunicorn==20.1.0
+aiohttp
+
